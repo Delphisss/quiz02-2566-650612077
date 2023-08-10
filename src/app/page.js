@@ -17,7 +17,7 @@ export default function HomePage() {
         className="mx-auto p-3 rounded rounded-3 shadow-sm"
       >
         {/* Post Owner Example*/}
-        <PostOwner></PostOwner>
+        <PostOwner> </PostOwner>
         {/* Comment Example */}
         <div className="d-flex gap-2 my-2">
           <img
